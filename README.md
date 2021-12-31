@@ -1,2 +1,2 @@
 # ProfessionalWebsite
- Professional website for providing highlighting projects, code, and web presence.
+ Professional website for highlighting projects, code, and web presence.
